@@ -8,8 +8,9 @@
 <?php
 echo "My first PHP script!";
 ?>
-<img src='images/dickpic.jpg' title='Dick Blair' class="center"/>
-
+<div>
+    <img src='images/dickpic.jpg' title='Dick Blair' class="center"/>
+</div>
 
 </body>
 </html> 
