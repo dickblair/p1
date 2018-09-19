@@ -3,7 +3,7 @@
 + Production URL: <http://p1.ambitiously.me>
 
 ## Outside resources
-https://www.w3schools.com/php/
+https://www.w3schools.com/
 
 
 ## Notes for instructor
