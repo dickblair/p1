@@ -32,7 +32,7 @@
 </section>
 <br/>
 <!--This section is for the random quotes -->
-<footer>
+<footer class=""bottom">
     Thoughtful famous quote that I am sure someone important said:
     <div id="quote">
         <?php

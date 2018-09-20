@@ -4,6 +4,7 @@
 
 a {
     float:left;
+    align: center;
 }
 
 section {
@@ -12,8 +13,11 @@ section {
     float:right;
 }
 
-#quote {
+.bottom {
     clear:both;
+}
+
+#quote {
     font-size: 16px;
     line-height: 2;
 
