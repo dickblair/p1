@@ -5,12 +5,13 @@
 a {
     float:left;
     align: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 section {
     font-size: 20px;
     line-height: 1.5;
-    float:right;
 }
 
 .bottom {
