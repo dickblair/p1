@@ -4,6 +4,8 @@
 
 ## Outside resources
 https://www.w3schools.com/
+https://stackoverflow.com/questions/15785390/css-images-in-another-folder
+https://www.sitepoint.com/a-basic-html5-template/
 
 
 ## Notes for instructor
