@@ -2,6 +2,14 @@
 <html lang='eng'>
 <head>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <?php
+      $quoteArray = array("A penny saved is a penny earned.",
+                            "Do unto others as you would have them do to unto you.",
+                            "Peter Piper picked a pack of pickled peppers.",
+                             "If at first you don't succeed, try, try again.",
+                             "Success comes before work only in the dictionary.");
+      $myquote = $quoteArray[rand(0,4)];
+    ?>
 </head>
 <body>
 <!--  This is where I put my picture -->
@@ -22,7 +30,16 @@
     information security topics. He's recently served as the Vice President of the board for the Alamo Chapter of
     (ISC)2 and the keynote speaker for Secure San Antonio.
 </section>
-
+<br/>
+<!--This section is for the random quotes -->
+<footer>
+    Thoughtful famous quote that I am sure someone important said:
+    <div>
+        <?php
+            echo $myquote;
+        ?>
+    </div>
+</footer>
 
 
 </body>
