@@ -34,7 +34,7 @@
 <!--This section is for the random quotes -->
 <footer>
     Thoughtful famous quote that I am sure someone important said:
-    <div>
+    <div id="quote">
         <?php
             echo $myquote;
         ?>

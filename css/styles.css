@@ -3,6 +3,13 @@
 }
 
 section {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.5;
+    float:right;
+}
+
+#quote {
+    font-size: 16px;
+    line-height: 2;
+    
 }
