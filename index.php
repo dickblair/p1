@@ -5,12 +5,8 @@
 </head>
 <body>
 
-<?php
-echo "My first PHP script!";
-?>
-<div>
-    <img src='images/dickpic.jpg' title='Dick Blair' class="center"/>
-</div>
+
+<div title='Dick Blair' id=dick /> </div>
 
 </body>
 </html> 
