@@ -6,7 +6,7 @@
 <body>
 
 
-<div title='Dick Blair' id=dick /> </div>
+<div title='Dick Blair' id="dick" />
 
 </body>
 </html> 
