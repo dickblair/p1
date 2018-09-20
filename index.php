@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='eng'>
+<html lang="en">
 <head>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <?php
@@ -32,7 +32,7 @@
 </section>
 <br/>
 <!--This section is for the random quotes -->
-<footer class=""bottom">
+<footer class="bottom">
     Thoughtful famous quote that I am sure someone important said:
     <div id="quote">
         <?php
