@@ -33,7 +33,7 @@
 <br/>
 <!--This section is for the random quotes -->
 <footer class="bottom">
-    Thoughtful famous quote that I am sure someone important said:
+    I am thinking of a famous quote that I am sure someone important said:
     <div id="quote">
         <?php
             echo $myquote;
