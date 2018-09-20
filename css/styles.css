@@ -1,9 +1,3 @@
-#dick {
-    background-image: url("/images/dickpicicon.jpg");
-    margin: auto;
-    width: 50%;
-}
-
-#dick:hover {
-    background-image: url("/images/dickpic.jpg");
+.padded {
+    padding: 10px;
 }
